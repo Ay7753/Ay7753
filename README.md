@@ -4,12 +4,10 @@ AI Engineer · Full-Stack Developer (FastAPI + React) · Based in Gurugram, Indi
 
 I build AI-native products end-to-end — model integration, AI agents, computer vision systems, OCR pipelines, automation workflows, and scalable full-stack applications.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/EMAIL-THEAYUSHKUMAR0207%40GMAIL.COM-black">
-  <img src="https://img.shields.io/badge/BASED%20IN-GURUGRAM%2C%20INDIA-blue">
-  <img src="https://img.shields.io/badge/OPEN%20TO-ROLES%20%26%20COLLABS-success">
-  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-orange">
-</p>
+![Email](https://img.shields.io/badge/EMAIL-THEAYUSHKUMAR0207%40GMAIL.COM-black)
+![Based In](https://img.shields.io/badge/BASED%20IN-GURUGRAM%2C%20INDIA-blue)
+![Open To](https://img.shields.io/badge/OPEN%20TO-ROLES%20%26%20COLLABS-success)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-orange)
 
 ---
 
