@@ -1,17 +1,26 @@
-# Hi, I'm Ayush Kumar Dixit 👋
+<h1 align="center">Hi, I'm Ayush Kumar Dixit 👋</h1>
 
+<h3 align="center">
 AI Engineer · Full-Stack (FastAPI + React) · Gurugram, India
+</h3>
 
+<p align="center">
 I build AI-native products end-to-end — AI agents, computer vision systems, OCR pipelines, automation workflows, and scalable applications.
-
-<p>
-<img src="https://img.shields.io/badge/EMAIL-THEAYUSHKUMAR0207%40GMAIL.COM-black">
-<img src="https://img.shields.io/badge/BASED%20IN-GURUGRAM%2C%20INDIA-blue">
-<img src="https://img.shields.io/badge/OPEN%20TO-ROLES%20%26%20COLLABS-success">
 </p>
+
+<p align="center">
+<a href="mailto:theayushkumar0207@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-theayushkumar0207%40gmail.com-red?style=for-the-badge" />
+</a>
+
+<img src="https://img.shields.io/badge/BASED_IN-Gurugram,_India-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/OPEN_TO-AI_Engineering-green?style=for-the-badge" />
+</p>
+
 ---
 
-👨‍💻 About
+## 👨‍💻 About
 
 I ship AI-powered applications focused on solving practical problems using modern machine learning, large language models, and full-stack engineering.
 
@@ -29,131 +38,82 @@ Every project below is designed around real-world applications and production-re
 
 ---
 
-🚀 Currently Shipping
+## 🚀 Currently Shipping
 
-🛞 2 Wheel Detection
-
+### 🛞 2 Wheel Detection
 Real-time wheel detection and counting platform built using YOLOv8 and OpenCV.
 
-🏨 Hotel Booking Assistant
-
+### 🏨 Hotel Booking Assistant
 Conversational AI assistant for hotel discovery, reservation workflows, and travel support.
 
-📄 Invoice Extractor
-
+### 📄 Invoice Extractor
 OCR + LLM-powered invoice intelligence system for extracting structured data from documents.
 
-🧠 Mental Health Support
-
+### 🧠 Mental Health Support
 AI-powered patient simulation platform supporting voice and text interactions.
 
-🎙️ SoundScript
-
+### 🎙️ SoundScript
 Audio intelligence platform that transforms conversations into summaries and actionable insights.
 
-👓 Virtual Eyewear Try-On
-
+### 👓 Virtual Eyewear Try-On
 Computer vision-based virtual eyewear experience powered by webcam face tracking.
 
 ---
 
-📦 Featured Projects
+## 📦 Featured Projects
 
-🛞 2 Wheel Detection
-
-Real-time wheel counting system.
-
-Stack: Python · OpenCV · YOLOv8
-
-Detects wheels from video streams, draws bounding boxes, and generates processed output videos.
-
----
-
-🏨 Hotel Booking Assistant
-
-AI-powered reservation assistant.
-
-Stack: Python · FastAPI · LLMs
-
-Automates hotel booking workflows through conversational interfaces.
+| Project | Description | Stack |
+|----------|-------------|--------|
+| 🛞 2 Wheel Detection | Real-time wheel counting system | Python, OpenCV, YOLOv8 |
+| 🏨 Hotel Booking Assistant | AI-powered reservation assistant | Python, FastAPI, LLMs |
+| 📄 Invoice Extractor | OCR + LLM document intelligence | Python, OCR, Gemini |
+| 🧠 Mental Health Support | AI patient simulation platform | React, FastAPI, Gemini |
+| 🎙️ SoundScript | Audio intelligence platform | JavaScript, AI APIs |
+| 👓 Virtual Eyewear Try-On | Virtual fitting platform | React, Computer Vision |
 
 ---
 
-📄 Invoice Extractor
+## ⚙️ Tech Stack
 
-Document intelligence platform.
+### AI & Machine Learning
 
-Stack: Python · OCR · Gemini/OpenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-red?style=for-the-badge)
 
-Extracts invoice details from PDFs and scanned documents.
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
-🧠 Mental Health Support
+### Backend
 
-Healthcare AI simulation platform.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-Stack: React · FastAPI · Gemini · Whisper
+### Databases
 
-Enables interactive AI-driven patient simulations.
-
----
-
-🎙️ SoundScript
-
-Conversation intelligence platform.
-
-Stack: JavaScript · AI APIs
-
-Transforms audio recordings into concise summaries and insights.
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-👓 Virtual Eyewear Try-On
+## 📊 GitHub Analytics
 
-Real-time virtual fitting platform.
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ay7753&show_icons=true&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay7753&layout=compact&theme=github_dark" />
+</p>
 
-Stack: React · JavaScript · Computer Vision
-
-Allows users to preview eyewear using their webcam.
-
----
-
-⚙️ Tech Stack
-
-AI & ML
-
-Python · OpenAI · Gemini · Claude · YOLOv8
-
-Frontend
-
-React · Next.js · Tailwind CSS
-
-Backend
-
-FastAPI · Node.js
-
-Databases
-
-MongoDB · MySQL
-
-Tools
-
-Git · GitHub · VS Code · Postman
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ay7753&theme=github-dark" />
+</p>
 
 ---
 
-📊 GitHub Analytics
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ay7753&show_icons=true&theme=github_dark)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Ay7753&layout=compact&theme=github_dark)
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=Ay7753&theme=github-dark)
-
----
-
-🎯 2026 Goals
+## 🎯 2026 Goals
 
 - Build production-grade AI Agents
 - Launch AI SaaS products
@@ -163,14 +123,16 @@ Git · GitHub · VS Code · Postman
 
 ---
 
-📫 Contact
+## 📫 Contact
 
-📧 theayushkumar0207@gmail.com
+📧 **theayushkumar0207@gmail.com**
 
-📍 Gurugram, Haryana, India
+📍 **Gurugram, Haryana, India**
 
 💼 Open to AI Engineering, AI Automation Engineering, and Full-Stack Development opportunities.
 
 ---
 
-Building intelligent systems that solve real-world problems.
+<p align="center">
+<b>Building intelligent systems that solve real-world problems.</b>
+</p>
