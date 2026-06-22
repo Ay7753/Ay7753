@@ -1,154 +1,84 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ayush Kumar Dixit</h1>
 
-# AYUSH KUMAR DIXIT
+<h3 align="center">🚀 AI Engineer · Full-Stack Developer (FastAPI + React) · India 🇮🇳</h3>
 
-### AI Engineer ✦ Full-Stack Developer ✦ Automation Architect
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A8A,100:E57373&height=180&section=header&text=&fontSize=0"/>
-
-<div align="center">
-
-### *"Transforming ideas into AI-powered products and automation systems."*
-
-![](https://komarev.com/ghpvc/?username=ay7753&style=for-the-badge)
-
-</div>
+<p align="center">
+I build AI-native products end-to-end — AI agents, computer vision systems, OCR pipelines, automation workflows, and scalable backend systems.
+</p>
 
 ---
 
-# 📌 About Me
+## 💫 About Me
 
-I am an **AI Engineer & Full-Stack Developer** passionate about building intelligent systems that solve real-world business problems.
-
-My expertise spans:
-
-- 🤖 AI Agents & LLM Applications
-- 👁️ Computer Vision
-- 📄 OCR & Document Intelligence
-- ⚡ Workflow Automation (n8n)
-- 🔗 API Design & Backend Engineering
-- 🌐 Full-Stack Development
-- 🏗️ AI Product Development
-
-Currently building AI-native products and automation systems that streamline business operations and improve productivity.
+- 🔭 I’m currently working on **AI Agents, Computer Vision Applications, OCR Pipelines, and Workflow Automation**
+- 👯 I’m looking to collaborate on **AI-powered products, SaaS platforms, and open-source projects**
+- 🤝 I’m looking for help with **MLOps, LLM deployment at scale, and production AI systems**
+- 🌱 I’m currently learning **Django, PostgreSQL, n8n, and advanced LLM engineering**
+- 💬 Ask me about **AI, Python, FastAPI, Automation, and Backend Systems**
+- ⚡ Fun fact: I love turning complex AI ideas into real-world products
 
 ---
 
-<div align="center">
+## 🧠 Tech Stack
 
-| 📧 Email | 📍 Based In | 🚀 Open To |
-|----------|------------|------------|
-| theayushkumar0207@gmail.com | India | Roles + Collaborations |
+### 🚀 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-</div>
+### 🤖 AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR_Pipelines-4CAF50?style=for-the-badge)
 
----
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-# 🚀 Featured Areas
-
-### 🤖 AI Agents
-
-Building intelligent multi-step AI workflows capable of reasoning, automation, and tool usage.
-
-### 👁️ Computer Vision
-
-Developing object detection, OCR, and image intelligence applications using modern AI frameworks.
-
-### ⚡ Workflow Automation
-
-Automating business processes through APIs, n8n workflows, and event-driven systems.
-
-### 🌐 Full Stack Applications
-
-Creating scalable applications using FastAPI, Django, React, and PostgreSQL.
+### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge)
 
 ---
 
-# 📊 Contribution Analytics
+## 🚀 Featured Projects
 
-<div align="center">
+### 🧠 AI Agent System
+Built autonomous AI agents that perform multi-step reasoning and automation tasks.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=tokyonight&hide_border=true"/>
+### 👁️ Computer Vision App
+Real-time object detection and classification system using deep learning models.
 
-</div>
+### 📄 OCR Pipeline
+Document scanning system that extracts structured data from images and PDFs.
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay7753&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay7753&theme=tokyo-night&hide_border=true"/>
-
-</div>
+### ⚙️ Workflow Automation (n8n)
+End-to-end automation pipelines for business processes and API integrations.
 
 ---
 
-# 🛠️ Languages & Tools
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ay7753&show_icons=true&theme=radical" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,react,js,html,css,docker,git,github"/>
-
-</div>
-
-### AI Stack
-
-- AI Agents
-- LLM Integrations
-- Computer Vision
-- OCR Systems
-- YOLO / Ultralytics
-
-### Backend
-
-- FastAPI
-- Django
-- Django REST Framework
-- PostgreSQL
-
-### Automation
-
-- n8n
-- API Integrations
-- MCP Servers
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=radical" />
+</p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌐 Connect With Me
 
-- Advanced Django Architecture
-- PostgreSQL Optimization
-- Production AI Systems
-- MLOps
-- Enterprise Automation
+- 💼 LinkedIn: www.linkedin.com/in/ayush098  
+- 💻 GitHub: https://github.com/ay7753  
 
 ---
 
-# 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush098-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush098)
-
-[![Gmail](https://img.shields.io/badge/Gmail-theayushkumar0207@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:theayushkumar0207@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ay7753-black?style=for-the-badge&logo=github)](https://github.com/ay7753)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.
-
-</div>
+<p align="center">
+🔥 “Building AI systems that actually solve real-world problems”
+</p>
