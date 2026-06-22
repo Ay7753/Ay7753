@@ -1,4 +1,33 @@
+<h1 align="center">Hi 👋, I'm Ayush Kumar Dixit</h1>
+<h3 align="center">AI Engineer • Full-Stack Developer • Automation Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushkumar77781&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Ayush Kumar Dixit** 👋
+
+I'm an **AI Engineer and Full-Stack Developer** passionate about building intelligent, scalable, and automation-driven applications. My expertise spans across **Artificial Intelligence, Computer Vision, OCR Systems, AI Agents, Backend Development, and Workflow Automation**.
+
+I enjoy transforming complex business problems into practical solutions using modern technologies and automation platforms. From developing AI-powered applications to creating REST APIs and automated workflows, I focus on delivering reliable and efficient systems.
+
+🔭 I'm currently working on **AI Agents, Computer Vision Applications, OCR Pipelines, and Workflow Automation Solutions**
+
+👯 I'm looking to collaborate on **AI-Powered Products, Automation Platforms, and Open Source Projects**
+
+🤝 I'm looking for help with **MLOps, Large-Scale AI Deployments, and Advanced LLM Architectures**
+
+🌱 I'm currently learning **Django REST Framework, PostgreSQL Optimization, Advanced n8n Workflows, and Production-Ready AI Systems**
+
+💬 Ask me about **Python, FastAPI, Django, React, Computer Vision, OCR, AI Agents, n8n, and API Development**
+
+⚡ Fun fact: **I enjoy transforming complex business processes into intelligent AI-powered automation solutions.**
+
+---
 
 
 ## 🌐 Socials:
