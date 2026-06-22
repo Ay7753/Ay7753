@@ -1,84 +1,154 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Dixit</h1>
+<div align="center">
 
-<h3 align="center">🚀 AI Engineer · Full-Stack Developer (FastAPI + React) · India 🇮🇳</h3>
+# AYUSH KUMAR DIXIT
 
-<p align="center">
-I build AI-native products end-to-end — AI agents, computer vision systems, OCR pipelines, automation workflows, and scalable backend systems.
-</p>
+### AI Engineer ✦ Full-Stack Developer ✦ Automation Architect
 
----
+</div>
 
-## 💫 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A8A,100:E57373&height=180&section=header&text=&fontSize=0"/>
 
-- 🔭 I’m currently working on **AI Agents, Computer Vision Applications, OCR Pipelines, and Workflow Automation**
-- 👯 I’m looking to collaborate on **AI-powered products, SaaS platforms, and open-source projects**
-- 🤝 I’m looking for help with **MLOps, LLM deployment at scale, and production AI systems**
-- 🌱 I’m currently learning **Django, PostgreSQL, n8n, and advanced LLM engineering**
-- 💬 Ask me about **AI, Python, FastAPI, Automation, and Backend Systems**
-- ⚡ Fun fact: I love turning complex AI ideas into real-world products
+<div align="center">
 
----
+### *"Transforming ideas into AI-powered products and automation systems."*
 
-## 🧠 Tech Stack
+![](https://komarev.com/ghpvc/?username=ay7753&style=for-the-badge)
 
-### 🚀 Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR_Pipelines-4CAF50?style=for-the-badge)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### ⚙️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 📌 About Me
 
-### 🧠 AI Agent System
-Built autonomous AI agents that perform multi-step reasoning and automation tasks.
+I am an **AI Engineer & Full-Stack Developer** passionate about building intelligent systems that solve real-world business problems.
 
-### 👁️ Computer Vision App
-Real-time object detection and classification system using deep learning models.
+My expertise spans:
 
-### 📄 OCR Pipeline
-Document scanning system that extracts structured data from images and PDFs.
+- 🤖 AI Agents & LLM Applications
+- 👁️ Computer Vision
+- 📄 OCR & Document Intelligence
+- ⚡ Workflow Automation (n8n)
+- 🔗 API Design & Backend Engineering
+- 🌐 Full-Stack Development
+- 🏗️ AI Product Development
 
-### ⚙️ Workflow Automation (n8n)
-End-to-end automation pipelines for business processes and API integrations.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ay7753&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=radical" />
-</p>
+Currently building AI-native products and automation systems that streamline business operations and improve productivity.
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-- 💼 LinkedIn: www.linkedin.com/in/ayush098  
-- 💻 GitHub: https://github.com/ay7753  
+| 📧 Email | 📍 Based In | 🚀 Open To |
+|----------|------------|------------|
+| theayushkumar0207@gmail.com | India | Roles + Collaborations |
+
+</div>
 
 ---
 
-<p align="center">
-🔥 “Building AI systems that actually solve real-world problems”
-</p>
+# 🚀 Featured Areas
+
+### 🤖 AI Agents
+
+Building intelligent multi-step AI workflows capable of reasoning, automation, and tool usage.
+
+### 👁️ Computer Vision
+
+Developing object detection, OCR, and image intelligence applications using modern AI frameworks.
+
+### ⚡ Workflow Automation
+
+Automating business processes through APIs, n8n workflows, and event-driven systems.
+
+### 🌐 Full Stack Applications
+
+Creating scalable applications using FastAPI, Django, React, and PostgreSQL.
+
+---
+
+# 📊 Contribution Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay7753&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay7753&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,react,js,html,css,docker,git,github"/>
+
+</div>
+
+### AI Stack
+
+- AI Agents
+- LLM Integrations
+- Computer Vision
+- OCR Systems
+- YOLO / Ultralytics
+
+### Backend
+
+- FastAPI
+- Django
+- Django REST Framework
+- PostgreSQL
+
+### Automation
+
+- n8n
+- API Integrations
+- MCP Servers
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Django Architecture
+- PostgreSQL Optimization
+- Production AI Systems
+- MLOps
+- Enterprise Automation
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush098-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush098)
+
+[![Gmail](https://img.shields.io/badge/Gmail-theayushkumar0207@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:theayushkumar0207@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ay7753-black?style=for-the-badge&logo=github)](https://github.com/ay7753)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.
+
+</div>
