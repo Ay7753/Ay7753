@@ -96,7 +96,7 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,react,js,html,css,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,,react,js,html,css,github"/>
 
 </div>
 
