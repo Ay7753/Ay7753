@@ -1,145 +1,134 @@
-<h1 align="center">Ayush Kumar Dixit</h1>
+<h1 align="center">Hi, I'm Ayush Kumar Dixit 👋</h1>
 
 <h3 align="center">
-AI Engineer • Generative AI • Computer Vision • Full-Stack Development
+AI Engineer · Full-Stack (FastAPI + React) · India
 </h3>
 
 <p align="center">
-Building production-ready AI systems powered by LLMs, Computer Vision, Speech AI, OCR, and Workflow Automation.
+I build AI-native products end-to-end — AI agents, computer vision systems, OCR pipelines, speech intelligence platforms, automation workflows, and scalable applications.
 </p>
 
 <p align="center">
 <a href="mailto:theayushkumar0207@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-theayushkumar0207%40gmail.com-red?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Ay7753">
-<img src="https://img.shields.io/badge/GitHub-Ay7753-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Ay7753-black?style=for-the-badge&logo=github" />
 </a>
 
-<img src="https://img.shields.io/badge/Open_To-AI_Engineering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_TO-AI_Engineering-green?style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About
 
-AI Engineer with hands-on experience developing intelligent applications using Large Language Models (LLMs), Computer Vision, OCR, Speech Processing, and Full-Stack Development.
+I ship AI-powered applications focused on solving practical problems using modern machine learning, large language models, and full-stack engineering.
 
-I specialize in designing and deploying AI-powered products that automate workflows, extract insights from data, and improve decision-making through modern machine learning technologies.
+My work sits at the intersection of:
 
-### Core Expertise
+* AI Engineering
+* AI Agents & Automation
+* Computer Vision
+* OCR & Document Intelligence
+* Speech AI & Audio Intelligence
+* React + Next.js Frontends
+* FastAPI Backends
+* Generative AI Systems
 
-- Generative AI & Large Language Models
-- AI Agents & Workflow Automation
-- Computer Vision & Object Detection
-- OCR & Document Intelligence
-- Speech AI & Audio Processing
-- FastAPI Backend Development
-- React Frontend Development
-- API Design & System Integration
+Every project below is designed around real-world applications and production-ready architecture.
 
 ---
 
-## Featured Projects
+## 🚀 Currently Shipping
 
 ### 📄 Invoice Extractor
-AI-powered document intelligence system that extracts structured invoice information from scanned PDFs and images using OCR and Gemini LLMs.
 
-**Technologies:** Python, Gemini API, Tesseract OCR, Gradio
-
----
+OCR + LLM-powered document intelligence system for extracting structured invoice data and enabling natural language querying.
 
 ### 🎙️ SoundScript
-Audio intelligence platform that converts conversations into structured insights through transcription, summarization, sentiment analysis, and speaker understanding.
 
-**Technologies:** Whisper, Gemini API, Flask, React
-
----
+AI-powered audio intelligence platform for transcription, summarization, sentiment analysis, and conversation insights.
 
 ### 🛞 2 Wheel Detection
-Real-time wheel detection and counting platform built using a custom-trained YOLOv8 model and OpenCV.
 
-**Technologies:** Python, YOLOv8, OpenCV
-
----
+Real-time wheel detection and counting system built using custom-trained YOLOv8 models and OpenCV.
 
 ### 👓 Virtual Eyewear Try-On
-Computer vision application that enables users to virtually try eyewear using facial landmark detection and real-time 3D rendering.
 
-**Technologies:** React, Three.js, TensorFlow.js
-
----
+Computer vision-based virtual eyewear experience powered by facial landmark detection and 3D rendering.
 
 ### 🏨 Hotel Booking Assistant
-Conversational AI assistant that streamlines hotel discovery, room selection, and reservation workflows.
 
-**Technologies:** React, FastAPI, LLMs
-
----
+Conversational AI assistant for hotel discovery, room availability checking, and reservation workflows.
 
 ### 🤖 Feedback AI Assistant
-AI-powered feedback collection and sentiment analysis platform for understanding customer opinions and generating insights.
 
-**Technologies:** FastAPI, Gemini API, NLP
-
----
+AI-powered feedback collection, categorization, and sentiment analysis platform.
 
 ### 🧠 Mental Health Support
-AI-powered patient simulation platform supporting voice and text-based interactions for training and support use cases.
 
-**Technologies:** React, FastAPI, Gemini API
+AI-powered patient simulation platform supporting voice and text interactions.
 
 ---
 
-## Technology Stack
+## 📦 Featured Projects
 
-### Artificial Intelligence
+| Project                    | Description                                                                                                 | Stack                                 |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 📄 Invoice Extractor       | AI-powered OCR and document intelligence platform with natural language invoice querying                    | Python, Gemini, Tesseract OCR, Gradio |
+| 🎙️ SoundScript            | Audio intelligence platform for transcription, summarization, sentiment analysis, and conversation insights | Whisper, Gemini, Flask, React         |
+| 🛞 2 Wheel Detection       | Real-time wheel detection and counting system using custom-trained YOLOv8 models                            | Python, YOLOv8, OpenCV                |
+| 👓 Virtual Eyewear Try-On  | AI-powered virtual eyewear fitting platform using facial landmark detection and 3D rendering                | React, Three.js, TensorFlow.js        |
+| 🏨 Hotel Booking Assistant | Conversational AI platform for hotel discovery, room selection, and reservation workflows                   | React, FastAPI, LLMs                  |
+| 🤖 Feedback AI Assistant   | AI-powered feedback collection, sentiment analysis, and customer insight platform                           | FastAPI, Gemini API, NLP              |
+| 🧠 Mental Health Support   | AI-powered patient simulation platform supporting voice and text-based interactions                         | React, FastAPI, Gemini                |
 
-- Python
-- OpenAI
-- Gemini
-- Claude
-- TensorFlow
-- YOLOv8
-- OpenCV
-- Whisper
-- NLP
+---
 
-### Backend
+## ⚙️ Tech Stack
 
-- FastAPI
-- Flask
-- Node.js
-- REST APIs
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-red?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+![Whisper](https://img.shields.io/badge/Whisper-AI-black?style=for-the-badge)
 
 ### Frontend
 
-- React.js
-- Next.js
-- JavaScript
-- HTML5
-- CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 
 ### Databases
 
-- MongoDB
-- MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
 ### Automation & Tools
 
-- n8n
-- Git
-- GitHub
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ay7753&show_icons=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay7753&layout=compact&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ay7753&show_icons=true&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay7753&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -148,30 +137,30 @@ AI-powered patient simulation platform supporting voice and text-based interacti
 
 ---
 
-## Current Focus
+## 🎯 2026 Goals
 
-- Building Production-Ready AI Agents
-- Advanced RAG Systems
-- AI Workflow Automation with n8n
-- Computer Vision Applications
-- Generative AI Products
-- Multi-Agent Systems
+* Build production-grade AI Agents
+* Launch AI SaaS Products
+* Master Advanced System Design
+* Contribute to Open-Source AI Projects
+* Secure a High-Impact AI Engineering Role
 
 ---
 
-## Contact
+## 📫 Contact
 
-📧 Email: **theayushkumar0207@gmail.com**
+📧 **[theayushkumar0207@gmail.com](mailto:theayushkumar0207@gmail.com)**
 
 💼 Open to:
-- AI Engineer Roles
-- Generative AI Engineer Roles
-- Machine Learning Engineer Roles
-- Computer Vision Engineer Roles
-- AI Automation Engineer Roles
+
+* AI Engineering Roles
+* AI Automation Engineering Roles
+* Machine Learning Engineer Roles
+* Computer Vision Engineer Roles
+* Full-Stack AI Development Opportunities
 
 ---
 
 <p align="center">
-<b>Transforming complex problems into intelligent AI solutions.</b>
+<b>Building intelligent systems that solve real-world problems.</b>
 </p>
