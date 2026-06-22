@@ -1,168 +1,154 @@
+<div align="center">
+
 # AYUSH KUMAR DIXIT
 
-### 🤖 AI Engineer ✦ Full-Stack Developer ✦  AI Automation 
+### AI Engineer ✦ Full-Stack Developer ✦ Automation Architect
 
-> Building AI-powered systems, intelligent automation workflows, and computer vision applications that solve real-world business problems.
+</div>
 
-📧 **[theayushkumar0207@gmail.com](mailto:theayushkumar0207@gmail.com)**
-💼 **linkedin.com/in/ayush098**
-🐙 **github.com/ay7753**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A8A,100:E57373&height=180&section=header&text=&fontSize=0"/>
 
-**OPEN TO ROLES • COLLABORATIONS • FREELANCE PROJECTS**
+<div align="center">
+
+### *"Transforming ideas into AI-powered products and automation systems."*
+
+![](https://komarev.com/ghpvc/?username=ay7753&style=for-the-badge)
+
+</div>
 
 ---
 
 # 📌 About Me
 
-I am an AI Engineer and Full-Stack Developer based in India, building production-ready AI applications from concept to deployment.
+I am an **AI Engineer & Full-Stack Developer** passionate about building intelligent systems that solve real-world business problems.
 
-My work focuses on the practical side of AI—transforming powerful models into reliable products that businesses can use every day. I specialize in AI Agents, Computer Vision, OCR Systems, Workflow Automation, and scalable web applications.
+My expertise spans:
 
-I enjoy combining Artificial Intelligence, Backend Engineering, and Automation to create systems that reduce manual work, improve productivity, and deliver measurable business value.
+- 🤖 AI Agents & LLM Applications
+- 👁️ Computer Vision
+- 📄 OCR & Document Intelligence
+- ⚡ Workflow Automation (n8n)
+- 🔗 API Design & Backend Engineering
+- 🌐 Full-Stack Development
+- 🏗️ AI Product Development
+
+Currently building AI-native products and automation systems that streamline business operations and improve productivity.
 
 ---
 
-# 🧠 My Focus Areas
+<div align="center">
 
-### 🤖 AI Agents & LLM Applications
+| 📧 Email | 📍 Based In | 🚀 Open To |
+|----------|------------|------------|
+| theayushkumar0207@gmail.com | India | Roles + Collaborations |
 
-Building intelligent agents capable of reasoning, automation, and tool integration.
+</div>
 
-### 👁️ Computer Vision & OCR
+---
 
-Developing document processing systems, object detection pipelines, and vision-powered applications.
+# 🚀 Featured Areas
+
+### 🤖 AI Agents
+
+Building intelligent multi-step AI workflows capable of reasoning, automation, and tool usage.
+
+### 👁️ Computer Vision
+
+Developing object detection, OCR, and image intelligence applications using modern AI frameworks.
 
 ### ⚡ Workflow Automation
 
-Designing automation solutions using n8n, APIs, and event-driven architectures.
+Automating business processes through APIs, n8n workflows, and event-driven systems.
 
-### 🔗 Backend Engineering
+### 🌐 Full Stack Applications
 
-Creating scalable APIs and backend systems with FastAPI, Django, and PostgreSQL.
-
-### 🌐 Full-Stack Development
-
-Building modern web applications with React and Python-based backends.
-
-### 🏗️ AI-Native Products
-
-Creating end-to-end AI solutions from prototype to production deployment.
+Creating scalable applications using FastAPI, Django, React, and PostgreSQL.
 
 ---
 
-# 🚀 Current Projects
+# 📊 Contribution Analytics
 
-### 🤖 AI Agent Systems
+<div align="center">
 
-Building intelligent AI agents that automate workflows and business processes.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=tokyonight&hide_border=true"/>
 
-### 📄 OCR & Document Intelligence
+</div>
 
-Creating systems that extract, analyze, and process information from documents.
+<div align="center">
 
-### 👁️ Computer Vision Applications
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay7753&theme=tokyonight"/>
 
-Developing object detection and image understanding solutions using YOLO and OpenCV.
+</div>
 
-### ⚡ Workflow Automation Platforms
+---
 
-Automating repetitive business operations using n8n and custom integrations.
+# 📈 GitHub Activity
 
-### 🌐 Full-Stack SaaS Applications
+<div align="center">
 
-Building scalable products using FastAPI, Django, React, and PostgreSQL.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay7753&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🛠️ Languages & Tools
 
-### AI & Machine Learning
+<div align="center">
 
-* Python
-* AI Agents
-* LLM Integrations
-* OpenCV
-* YOLO / Ultralytics
-* OCR Systems
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,react,js,html,css,docker,git,github"/>
+
+</div>
+
+### AI Stack
+
+- AI Agents
+- LLM Integrations
+- Computer Vision
+- OCR Systems
+- YOLO / Ultralytics
 
 ### Backend
 
-* FastAPI
-* Django
-* Django REST Framework
-* PostgreSQL
-* REST APIs
-
-### Frontend
-
-* React
-* JavaScript
-* HTML5
-* CSS3
+- FastAPI
+- Django
+- Django REST Framework
+- PostgreSQL
 
 ### Automation
 
-* n8n
-* Workflow Automation
-* API Integrations
-* MCP Servers
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Postman
+- n8n
+- API Integrations
+- MCP Servers
 
 ---
 
 # 🌱 Currently Learning
 
-* Advanced Django Architecture
-* PostgreSQL Performance Optimization
-* Production AI Deployments
-* MLOps & AI Infrastructure
-* Enterprise Workflow Automation
-
----
-
-# 📊 What I Enjoy Building
-
-* 🤖 AI Agents
-* 👁️ Computer Vision Applications
-* 📄 OCR Systems
-* ⚡ Automation Platforms
-* 🔗 Backend APIs
-* 🌐 Full-Stack Products
-* 🏗️ Scalable AI Systems
-* 📈 Business Automation Solutions
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ay7753&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay7753&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Advanced Django Architecture
+- PostgreSQL Optimization
+- Production AI Systems
+- MLOps
+- Enterprise Automation
 
 ---
 
 # 🔗 Connect With Me
 
-📧 **Email:** [theayushkumar0207@gmail.com](mailto:theayushkumar0207@gmail.com)
+<div align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ayush098
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush098-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush098)
 
-🐙 **GitHub:** https://github.com/ay7753
+[![Gmail](https://img.shields.io/badge/Gmail-theayushkumar0207@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:theayushkumar0207@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ay7753-black?style=for-the-badge&logo=github)](https://github.com/ay7753)
+
+</div>
 
 ---
 
-> 🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.
+<div align="center">
+
+### 🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.
+
+</div>
