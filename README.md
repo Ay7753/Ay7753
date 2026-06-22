@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I'm currently working on **AI Agents, Computer Vision Applications, OCR Pipelines, and Workflow Automation Solutions**<br><br>👯 I'm looking to collaborate on **AI-Powered Products, Automation Platforms, and Open Source Projects**<br><br>🤝 I'm looking for help with **MLOps, Large-Scale AI Deployments, and Advanced LLM Architectures**<br><br>🌱 I'm currently learning **Django REST Framework, PostgreSQL, Advanced n8n Workflows, and Production-Ready AI Systems**<br><br>💬 Ask me about **Python, FastAPI, Django, React, Computer Vision, OCR, AI Agents, n8n, and API Development**<br><br>⚡ Fun fact: **I enjoy building solutions that combine AI, automation, and full-stack development to solve real-world business problems.**
+
 
 
 ## 🌐 Socials:
