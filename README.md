@@ -1,16 +1,17 @@
-# 👨‍💻 Ayush Kumar Dixit
+<h1 align="center">Hi 👋, I'm Ayush Kumar Dixit</h1>
+<h3 align="center">AI Engineer ✦ Full-Stack Developer ✦ Automation Builder</h3>
 
-### AI Engineer ✦ Full-Stack Developer ✦ Automation Builder
-
-> Building AI-powered applications, intelligent automation systems, and computer vision solutions that solve real-world business problems.
+<p align="center">
+  Building AI-powered applications, intelligent automation systems, and computer vision solutions that solve real-world business problems.
+</p>
 
 ---
 
-## 📌 About Me
+# 👨‍💻 About Me
 
-I am an AI Engineer and Full-Stack Developer focused on building production-ready AI applications, automation workflows, and scalable backend systems.
+I am an **AI Engineer and Full-Stack Developer** focused on building production-ready AI applications, automation workflows, and scalable backend systems.
 
-My work spans across AI Agents, Computer Vision, OCR Pipelines, Workflow Automation, and API-driven applications. I enjoy bridging the gap between innovative AI technologies and practical business solutions by creating systems that automate processes, improve efficiency, and deliver measurable value.
+My work spans across **AI Agents, Computer Vision, OCR Pipelines, Workflow Automation, and API-driven applications**. I enjoy bridging the gap between innovative AI technologies and practical business solutions by creating systems that automate processes, improve efficiency, and deliver measurable value.
 
 Currently, I'm exploring advanced AI architectures, automation orchestration, and scalable deployment strategies while building AI-native products end-to-end.
 
@@ -38,7 +39,7 @@ Building intelligent agents and workflow automation systems that streamline repe
 Developing OCR pipelines, object detection systems, and vision-based applications using modern AI frameworks.
 
 ### ⚡ Workflow Automation
-Designing end-to-end automation solutions with n8n, API integrations, and event-driven architectures.
+Designing end-to-end automation solutions using n8n, APIs, and event-driven architectures.
 
 ### 🌐 Full-Stack Applications
 Creating scalable applications using FastAPI, Django, React, and PostgreSQL with a focus on performance and maintainability.
@@ -47,41 +48,117 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL with
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
-Python • OpenCV • YOLO • OCR • AI Agents • LLM Integrations
+### 🤖 AI & Machine Learning
 
-### Backend
-FastAPI • Django • Django REST Framework • PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### Frontend
-React • JavaScript • HTML • CSS
+- AI Agents
+- Computer Vision
+- OCR Pipelines
+- Object Detection (YOLO/Ultralytics)
+- LLM Integrations
 
-### Automation
-n8n • API Integrations • Workflow Automation • MCP Servers
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+### 🔄 Automation & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+- n8n
+- Workflow Automation
+- API Integrations
+- MCP Servers
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Django & DRF
+- Advanced Django & Django REST Framework
 - PostgreSQL Optimization
-- Production AI Systems
-- MLOps & Deployment Strategies
-- Advanced Workflow Automation
+- AI Workflow Automation
+- Production-Ready AI Systems
+- MLOps Fundamentals
 
 ---
 
-## 📈 Philosophy
+## 📌 Featured Expertise
 
-> "Technology creates the most impact when it eliminates complexity and empowers people to focus on what matters."
-
-I enjoy building systems that combine AI, automation, and software engineering to solve practical business challenges.
+<table>
+<tr>
+<td align="center">🤖 AI Agents</td>
+<td align="center">👁️ Computer Vision</td>
+<td align="center">📄 OCR Systems</td>
+<td align="center">⚡ n8n Automation</td>
+</tr>
+<tr>
+<td align="center">🔗 APIs</td>
+<td align="center">🌐 Full-Stack Apps</td>
+<td align="center">🏗️ Backend Systems</td>
+<td align="center">📊 Process Automation</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: Your LinkedIn URL
-- 📧 Email: Your Email
-- 🌐 Portfolio: Your Portfolio URL
-- 🐙 GitHub: github.com/ayushkumar77781
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushkumar77781&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar77781&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar77781&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Current Focus
+
+- 🚀 Building AI-Native Products
+- 🤖 Developing Intelligent AI Agents
+- ⚡ Automating Business Workflows
+- 👁️ Scaling Computer Vision Applications
+- 🔗 Creating Robust Backend APIs
+
+---
+
+## 💭 Philosophy
+
+> "The best technology is invisible. It quietly automates complexity and empowers people to focus on meaningful work."
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/ayushkumar77781" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+📧 Email: your.email@example.com
+
+---
+
+<p align="center">
+  <b>🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.</b>
+</p>
