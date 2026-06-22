@@ -1,103 +1,145 @@
-# Hi, I'm Ayush Kumar Dixit 👋
+<h1 align="center">Ayush Kumar Dixit</h1>
 
 <h3 align="center">
-AI Engineer · Full-Stack Developer (FastAPI + React) · India
+AI Engineer • Generative AI • Computer Vision • Full-Stack Development
 </h3>
 
 <p align="center">
-I build AI-native applications that combine Large Language Models, Computer Vision, Speech AI, OCR, and Workflow Automation to solve real-world business problems.
+Building production-ready AI systems powered by LLMs, Computer Vision, Speech AI, OCR, and Workflow Automation.
 </p>
 
 <p align="center">
-  <a href="mailto:theayushkumar0207@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-theayushkumar0207%40gmail.com-red?style=for-the-badge" />
-  </a>
+<a href="mailto:theayushkumar0207@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Ay7753">
-    <img src="https://img.shields.io/badge/GitHub-Ay7753-181717?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://github.com/Ay7753">
+<img src="https://img.shields.io/badge/GitHub-Ay7753-black?style=for-the-badge&logo=github"/>
+</a>
 
-  <img src="https://img.shields.io/badge/OPEN_TO-AI_Engineering-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_To-AI_Engineering-success?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About
+## About Me
 
-I specialize in building production-ready AI systems that leverage modern machine learning, large language models, computer vision, and automation technologies.
+AI Engineer with hands-on experience developing intelligent applications using Large Language Models (LLMs), Computer Vision, OCR, Speech Processing, and Full-Stack Development.
 
-My expertise spans the complete AI product lifecycle—from model integration and backend architecture to intuitive user experiences and scalable deployments.
+I specialize in designing and deploying AI-powered products that automate workflows, extract insights from data, and improve decision-making through modern machine learning technologies.
 
-### Areas of Focus
+### Core Expertise
 
-* 🤖 AI Engineering & Agentic Systems
-* 🧠 Generative AI & LLM Applications
-* 👁️ Computer Vision & Deep Learning
-* 📄 OCR & Document Intelligence
-* 🎙️ Speech AI & Audio Intelligence
-* ⚡ Workflow Automation (n8n)
-* 🚀 FastAPI & Scalable APIs
-* ⚛️ React & Next.js Frontends
-
----
-
-## 🚀 Featured Projects
-
-| Project                    | Description                                                                                                                   | Stack                                 |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 📄 Invoice Extractor       | AI-powered OCR and document intelligence platform that extracts structured invoice data and enables natural language querying | Python, Gemini, Tesseract OCR, Gradio |
-| 🎙️ SoundScript            | Audio intelligence platform for transcription, summarization, sentiment analysis, and conversation insights                   | Whisper, Gemini, Flask, React         |
-| 🛞 2 Wheel Detection       | Real-time wheel detection and counting system using custom-trained YOLOv8 models                                              | Python, YOLOv8, OpenCV                |
-| 👓 Virtual Eyewear Try-On  | AI-powered virtual eyewear fitting platform using facial landmark detection and 3D rendering                                  | React, Three.js, TensorFlow.js        |
-| 🏨 Hotel Booking Assistant | Conversational AI platform for hotel discovery, room selection, and reservation workflows                                     | React, FastAPI, LLMs                  |
-| 🤖 Feedback AI Assistant   | AI-powered feedback collection, sentiment analysis, and customer insight platform                                             | FastAPI, Gemini API, NLP              |
-| 🧠 Mental Health Support   | AI-powered patient simulation platform supporting voice and text-based interactions                                           | React, FastAPI, Gemini                |
+- Generative AI & Large Language Models
+- AI Agents & Workflow Automation
+- Computer Vision & Object Detection
+- OCR & Document Intelligence
+- Speech AI & Audio Processing
+- FastAPI Backend Development
+- React Frontend Development
+- API Design & System Integration
 
 ---
 
-## ⚙️ Tech Stack
+## Featured Projects
 
-### AI & Machine Learning
+### 📄 Invoice Extractor
+AI-powered document intelligence system that extracts structured invoice information from scanned PDFs and images using OCR and Gemini LLMs.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-red?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
-![Whisper](https://img.shields.io/badge/Whisper-AI-black?style=for-the-badge)
+**Technologies:** Python, Gemini API, Tesseract OCR, Gradio
 
-### Frontend
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### 🎙️ SoundScript
+Audio intelligence platform that converts conversations into structured insights through transcription, summarization, sentiment analysis, and speaker understanding.
+
+**Technologies:** Whisper, Gemini API, Flask, React
+
+---
+
+### 🛞 2 Wheel Detection
+Real-time wheel detection and counting platform built using a custom-trained YOLOv8 model and OpenCV.
+
+**Technologies:** Python, YOLOv8, OpenCV
+
+---
+
+### 👓 Virtual Eyewear Try-On
+Computer vision application that enables users to virtually try eyewear using facial landmark detection and real-time 3D rendering.
+
+**Technologies:** React, Three.js, TensorFlow.js
+
+---
+
+### 🏨 Hotel Booking Assistant
+Conversational AI assistant that streamlines hotel discovery, room selection, and reservation workflows.
+
+**Technologies:** React, FastAPI, LLMs
+
+---
+
+### 🤖 Feedback AI Assistant
+AI-powered feedback collection and sentiment analysis platform for understanding customer opinions and generating insights.
+
+**Technologies:** FastAPI, Gemini API, NLP
+
+---
+
+### 🧠 Mental Health Support
+AI-powered patient simulation platform supporting voice and text-based interactions for training and support use cases.
+
+**Technologies:** React, FastAPI, Gemini API
+
+---
+
+## Technology Stack
+
+### Artificial Intelligence
+
+- Python
+- OpenAI
+- Gemini
+- Claude
+- TensorFlow
+- YOLOv8
+- OpenCV
+- Whisper
+- NLP
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+- FastAPI
+- Flask
+- Node.js
+- REST APIs
 
-### Automation & DevOps
+### Frontend
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+- React.js
+- Next.js
+- JavaScript
+- HTML5
+- CSS3
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+- MongoDB
+- MySQL
+
+### Automation & Tools
+
+- n8n
+- Git
+- GitHub
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ay7753&show_icons=true&theme=github_dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay7753&layout=compact&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ay7753&show_icons=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay7753&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -106,30 +148,30 @@ My expertise spans the complete AI product lifecycle—from model integration an
 
 ---
 
-## 🎯 2026 Goals
+## Current Focus
 
-* Build production-grade AI Agents
-* Launch AI SaaS Products
-* Master Advanced System Design
-* Contribute to Open Source AI Projects
-* Secure a High-Impact AI Engineering Role
+- Building Production-Ready AI Agents
+- Advanced RAG Systems
+- AI Workflow Automation with n8n
+- Computer Vision Applications
+- Generative AI Products
+- Multi-Agent Systems
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 **[theayushkumar0207@gmail.com](mailto:theayushkumar0207@gmail.com)**
+📧 Email: **theayushkumar0207@gmail.com**
 
 💼 Open to:
-
-* AI Engineering Roles
-* AI Automation Engineering Roles
-* Computer Vision Projects
-* Generative AI Development
-* Full-Stack AI Development
+- AI Engineer Roles
+- Generative AI Engineer Roles
+- Machine Learning Engineer Roles
+- Computer Vision Engineer Roles
+- AI Automation Engineer Roles
 
 ---
 
 <p align="center">
-<b>Building intelligent systems that transform data into decisions.</b>
+<b>Transforming complex problems into intelligent AI solutions.</b>
 </p>
