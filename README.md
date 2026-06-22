@@ -1,166 +1,168 @@
-# Hi 👋, I'm Ayush Kumar Dixit
+# AYUSH KUMAR DIXIT
 
-### AI Engineer ✦ Full-Stack Developer ✦ Automation Builder
+### 🤖 AI Engineer ✦ Full-Stack Developer ✦ Automation Architect
 
-<p align="center">
-Building AI-powered applications, intelligent automation systems, and computer vision solutions that solve real-world business problems.
-</p>
+> Building AI-powered systems, intelligent automation workflows, and computer vision applications that solve real-world business problems.
 
-<p align="center">
-  <a href="mailto:theayushkumar0207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ay7753">
-    <img src="https://img.shields.io/badge/GitHub-ay7753-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayush098">
-    <img src="https://img.shields.io/badge/LinkedIn-ayush098-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+📧 **[theayushkumar0207@gmail.com](mailto:theayushkumar0207@gmail.com)**
+💼 **linkedin.com/in/ayush098**
+🐙 **github.com/ay7753**
+
+**OPEN TO ROLES • COLLABORATIONS • FREELANCE PROJECTS**
 
 ---
 
-# 👨‍💻 About Me
+# 📌 About Me
 
-I am an **AI Engineer and Full-Stack Developer** focused on building production-ready AI applications, automation workflows, and scalable backend systems.
+I am an AI Engineer and Full-Stack Developer based in India, building production-ready AI applications from concept to deployment.
 
-My work spans across **AI Agents, Computer Vision, OCR Pipelines, Workflow Automation, and API-driven applications**. I enjoy bridging the gap between innovative AI technologies and practical business solutions by creating systems that automate processes, improve efficiency, and deliver measurable value.
+My work focuses on the practical side of AI—transforming powerful models into reliable products that businesses can use every day. I specialize in AI Agents, Computer Vision, OCR Systems, Workflow Automation, and scalable web applications.
 
-Currently, I'm building AI-native products end-to-end while exploring advanced AI architectures, automation orchestration, and scalable deployment strategies.
-
----
-
-## 🧠 Focus Areas
-
-* 🤖 AI Agents & LLM Applications
-* 👁️ Computer Vision & Object Detection
-* 📄 OCR & Document Intelligence Systems
-* ⚡ Workflow Automation with n8n
-* 🔗 API Design & Backend Engineering
-* 🌐 Full-Stack Web Development
-* 🏗️ Scalable AI System Architecture
-* 📊 Business Process Automation
+I enjoy combining Artificial Intelligence, Backend Engineering, and Automation to create systems that reduce manual work, improve productivity, and deliver measurable business value.
 
 ---
 
-## 🚀 What I'm Building
+# 🧠 My Focus Areas
 
-### 🤖 AI Agents & Automation
+### 🤖 AI Agents & LLM Applications
 
-Building intelligent agents and workflow automation systems that streamline repetitive business processes and improve operational efficiency.
+Building intelligent agents capable of reasoning, automation, and tool integration.
 
-### 👁️ Computer Vision Solutions
+### 👁️ Computer Vision & OCR
 
-Developing OCR pipelines, object detection systems, and vision-based applications using modern AI frameworks.
+Developing document processing systems, object detection pipelines, and vision-powered applications.
 
 ### ⚡ Workflow Automation
 
-Designing end-to-end automation solutions using n8n, APIs, and event-driven architectures.
+Designing automation solutions using n8n, APIs, and event-driven architectures.
 
-### 🌐 Full-Stack Applications
+### 🔗 Backend Engineering
 
-Creating scalable applications using FastAPI, Django, React, and PostgreSQL with a focus on performance and maintainability.
+Creating scalable APIs and backend systems with FastAPI, Django, and PostgreSQL.
+
+### 🌐 Full-Stack Development
+
+Building modern web applications with React and Python-based backends.
+
+### 🏗️ AI-Native Products
+
+Creating end-to-end AI solutions from prototype to production deployment.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Current Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 AI Agent Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+Building intelligent AI agents that automate workflows and business processes.
 
+### 📄 OCR & Document Intelligence
+
+Creating systems that extract, analyze, and process information from documents.
+
+### 👁️ Computer Vision Applications
+
+Developing object detection and image understanding solutions using YOLO and OpenCV.
+
+### ⚡ Workflow Automation Platforms
+
+Automating repetitive business operations using n8n and custom integrations.
+
+### 🌐 Full-Stack SaaS Applications
+
+Building scalable products using FastAPI, Django, React, and PostgreSQL.
+
+---
+
+# 🛠️ Languages & Tools
+
+### AI & Machine Learning
+
+* Python
 * AI Agents
-* Computer Vision
-* OCR Pipelines
-* Object Detection (YOLO / Ultralytics)
 * LLM Integrations
+* OpenCV
+* YOLO / Ultralytics
+* OCR Systems
 
-### ⚙️ Backend Development
+### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql" />
-</p>
+* FastAPI
+* Django
+* Django REST Framework
+* PostgreSQL
+* REST APIs
 
-### 🎨 Frontend Development
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
+* React
+* JavaScript
+* HTML5
+* CSS3
 
-### 🔄 Automation & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
+### Automation
 
 * n8n
 * Workflow Automation
 * API Integrations
 * MCP Servers
 
----
+### Tools
 
-## 🌱 Currently Learning
-
-* Advanced Django & Django REST Framework
-* PostgreSQL Optimization
-* AI Workflow Automation
-* Production-Ready AI Systems
-* MLOps Fundamentals
+* Git
+* GitHub
+* Docker
+* Postman
 
 ---
 
-## 📌 Featured Expertise
+# 🌱 Currently Learning
 
-| 🤖 AI Agents | 👁️ Computer Vision | 📄 OCR Systems      | ⚡ n8n Automation      |
-| ------------ | ------------------- | ------------------- | --------------------- |
-| 🔗 APIs      | 🌐 Full-Stack Apps  | 🏗️ Backend Systems | 📊 Process Automation |
-
----
-
-## 📈 Current Focus
-
-* 🚀 Building AI-Native Products
-* 🤖 Developing Intelligent AI Agents
-* ⚡ Automating Business Workflows
-* 👁️ Scaling Computer Vision Applications
-* 🔗 Creating Robust Backend APIs
+* Advanced Django Architecture
+* PostgreSQL Performance Optimization
+* Production AI Deployments
+* MLOps & AI Infrastructure
+* Enterprise Workflow Automation
 
 ---
 
-## 📊 GitHub Stats
+# 📊 What I Enjoy Building
+
+* 🤖 AI Agents
+* 👁️ Computer Vision Applications
+* 📄 OCR Systems
+* ⚡ Automation Platforms
+* 🔗 Backend APIs
+* 🌐 Full-Stack Products
+* 🏗️ Scalable AI Systems
+* 📈 Business Automation Solutions
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ay7753&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay7753&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ay7753&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay7753&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 💭 Philosophy
-
-> "The best technology is invisible. It quietly automates complexity and empowers people to focus on meaningful work."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay7753&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🔗 Connect With Me
 
 📧 **Email:** [theayushkumar0207@gmail.com](mailto:theayushkumar0207@gmail.com)
 
-🐙 **GitHub:** https://github.com/ay7753
-
 💼 **LinkedIn:** https://www.linkedin.com/in/ayush098
 
-🤝 Open to collaborations on AI, Computer Vision, Automation, Full-Stack Development, and AI Product Engineering.
+🐙 **GitHub:** https://github.com/ay7753
 
 ---
 
-<p align="center">
-  <b>🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.</b>
-</p>
+> 🚀 Building AI-powered solutions that automate workflows, improve productivity, and solve real-world problems.
