@@ -2,7 +2,16 @@
 <h3 align="center">AI Engineer ✦ Full-Stack Developer ✦ Automation Builder</h3>
 
 <p align="center">
-  Building AI-powered applications, intelligent automation systems, and computer vision solutions that solve real-world business problems.
+Building AI-powered applications, intelligent automation systems, and computer vision solutions that solve real-world business problems.
+</p>
+
+<p align="center">
+  <a href="mailto:theayushkumar0207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ayushkumar77781">
+    <img src="https://img.shields.io/badge/GitHub-ayushkumar77781-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
@@ -51,13 +60,13 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL with
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 - AI Agents
 - Computer Vision
 - OCR Pipelines
-- Object Detection (YOLO/Ultralytics)
+- Object Detection (YOLO / Ultralytics)
 - LLM Integrations
 
 ### ⚙️ Backend Development
@@ -97,20 +106,19 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL with
 
 ## 📌 Featured Expertise
 
-<table>
-<tr>
-<td align="center">🤖 AI Agents</td>
-<td align="center">👁️ Computer Vision</td>
-<td align="center">📄 OCR Systems</td>
-<td align="center">⚡ n8n Automation</td>
-</tr>
-<tr>
-<td align="center">🔗 APIs</td>
-<td align="center">🌐 Full-Stack Apps</td>
-<td align="center">🏗️ Backend Systems</td>
-<td align="center">📊 Process Automation</td>
-</tr>
-</table>
+| 🤖 AI Agents | 👁️ Computer Vision | 📄 OCR Systems | ⚡ n8n Automation |
+|-------------|-------------------|---------------|------------------|
+| 🔗 APIs | 🌐 Full-Stack Apps | 🏗️ Backend Systems | 📊 Process Automation |
+
+---
+
+## 📈 Current Focus
+
+- 🚀 Building AI-Native Products
+- 🤖 Developing Intelligent AI Agents
+- ⚡ Automating Business Workflows
+- 👁️ Scaling Computer Vision Applications
+- 🔗 Creating Robust Backend APIs
 
 ---
 
@@ -127,16 +135,6 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL with
 
 ---
 
-## 📈 Current Focus
-
-- 🚀 Building AI-Native Products
-- 🤖 Developing Intelligent AI Agents
-- ⚡ Automating Business Workflows
-- 👁️ Scaling Computer Vision Applications
-- 🔗 Creating Robust Backend APIs
-
----
-
 ## 💭 Philosophy
 
 > "The best technology is invisible. It quietly automates complexity and empowers people to focus on meaningful work."
@@ -145,17 +143,13 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL with
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://github.com/ayushkumar77781" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+📧 Email: **theayushkumar0207@gmail.com**
 
-📧 Email: your.email@example.com
+🐙 GitHub: **https://github.com/ayushkumar77781**
+
+💼 LinkedIn: **Add Your LinkedIn URL**
+
+🤝 Open to collaborations on AI, Computer Vision, Automation, and Full-Stack Development projects.
 
 ---
 
