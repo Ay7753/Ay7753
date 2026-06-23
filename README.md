@@ -2,7 +2,7 @@
 
 # AYUSH KUMAR DIXIT
 
-### AI Engineer ✦ Full-Stack Developer ✦ Automation Architect
+### AI Engineer ✦ Full-Stack Developer ✦  AI Automation 
 
 </div>
 
