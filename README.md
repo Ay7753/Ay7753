@@ -113,7 +113,7 @@ Creating scalable applications using FastAPI, Django, React, and PostgreSQL.
 - FastAPI
 - Django
 - Django REST Framework
-- PostgreSQL
+- Sqlite
 
 ### Automation
 
